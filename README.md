@@ -5,13 +5,6 @@ To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
 ## Software Required:
 Anaconda - Python 3.7
 
-## Algorithm: EDGE-DETECTION
-## Aim:
-To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
-
-## Software Required:
-Anaconda - Python 3.7
-
 ## Algorithm:
 ### Step1:
 Import all the necessary modules for the program.
@@ -135,40 +128,6 @@ plt.show()
 ![image](https://github.com/Safeeq-Fazil/EDGE-DETECTION/assets/118680361/2f2c48bb-b536-4d74-9411-5b91b51202ba)
 ![image](https://github.com/Safeeq-Fazil/EDGE-DETECTION/assets/118680361/ff48229b-f8c0-494c-beb2-4aac62b703c7)
 
-
-
-## Result:
-Thus the edges are detected using Sobel, Laplacian, and Canny edge detectors.
-
-### Step1:
-Import all the necessary modules for the program.
-
-### Step2:
-Load a image using imread() from cv2 module.
-
-### Step3:
-Convert the image to grayscale
-
-### Step4:
-Using Sobel operator from cv2,detect the edges of the image.
-
-### Step5:
-
-Using Laplacian operator from cv2,detect the edges of the image and Using Canny operator from cv2,detect the edges of the image.
-
-## Output:
-### SOBEL EDGE DETECTOR
-![image](https://github.com/Safeeq-Fazil/EDGE-DETECTION/assets/118680361/09ebbb70-2c70-43ce-a9fc-17b6f5c5bcfe)
-
-### LAPLACIAN EDGE DETECTOR
-![image](https://github.com/Safeeq-Fazil/EDGE-DETECTION/assets/118680361/9ededdcf-5a02-4323-b2c1-bddec870f871)
-
-
-
-### CANNY EDGE DETECTOR
-![image](https://github.com/Safeeq-Fazil/EDGE-DETECTION/assets/118680361/c97f33b1-d939-47a0-890f-f3c70fdde94c)
-![image](https://github.com/Safeeq-Fazil/EDGE-DETECTION/assets/118680361/2f2c48bb-b536-4d74-9411-5b91b51202ba)
-![image](https://github.com/Safeeq-Fazil/EDGE-DETECTION/assets/118680361/ff48229b-f8c0-494c-beb2-4aac62b703c7)
 
 
 ## Result:
