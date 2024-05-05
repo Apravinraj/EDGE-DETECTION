@@ -5,7 +5,7 @@ To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
 ## Software Required:
 Anaconda - Python 3.7
 
-## Algorithm:# EDGE-DETECTION
+## Algorithm: EDGE-DETECTION
 ## Aim:
 To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
 
