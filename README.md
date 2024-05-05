@@ -158,15 +158,18 @@ Using Laplacian operator from cv2,detect the edges of the image and Using Canny 
 
 ## Output:
 ### SOBEL EDGE DETECTOR
-
-![output](./sobel.png)
+![image](https://github.com/Safeeq-Fazil/EDGE-DETECTION/assets/118680361/09ebbb70-2c70-43ce-a9fc-17b6f5c5bcfe)
 
 ### LAPLACIAN EDGE DETECTOR
-![output](./laplacian.png)
+![image](https://github.com/Safeeq-Fazil/EDGE-DETECTION/assets/118680361/9ededdcf-5a02-4323-b2c1-bddec870f871)
+
 
 
 ### CANNY EDGE DETECTOR
-![output](./canny.png)
+![image](https://github.com/Safeeq-Fazil/EDGE-DETECTION/assets/118680361/c97f33b1-d939-47a0-890f-f3c70fdde94c)
+![image](https://github.com/Safeeq-Fazil/EDGE-DETECTION/assets/118680361/2f2c48bb-b536-4d74-9411-5b91b51202ba)
+![image](https://github.com/Safeeq-Fazil/EDGE-DETECTION/assets/118680361/ff48229b-f8c0-494c-beb2-4aac62b703c7)
+
 
 ## Result:
 Thus the edges are detected using Sobel, Laplacian, and Canny edge detectors.
